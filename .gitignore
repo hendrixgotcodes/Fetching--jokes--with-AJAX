@@ -1,4 +1,6 @@
 scss/
 json/
 package.json
-package-lock.js
+package-lock.json
+.gitignore
+op.html

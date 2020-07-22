@@ -1,7 +1,7 @@
 document.getElementById("btn").addEventListener("click", getChuckJokes);
 
 let gifContainer = document.createElement("img");
-gifContainer.setAttribute("src", "../vid/Interwind-1s-200px.svg");
+gifContainer.setAttribute("src", "./vid/Interwind-1s-200px.svg");
 
 let ulContainer = document.createElement("ol");
 ulContainer.className = "jokes";
